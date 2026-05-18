@@ -7,8 +7,6 @@
 
 - 🎓 3rd Year Computer Science Student
 - 🌱 Currently learning Full Stack Development & Data Analytics
-- 💡 Interested in Sports Tech, AI, and Gaming
-- ⚡ Exploring frontend-focused web development
 - 🎯 Preparing for placements
 
 ---
@@ -18,12 +16,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,java,git,github,vscode" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![Flame's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlameX75&show_icons=true&theme=tokyonight)
 
 ---
 
